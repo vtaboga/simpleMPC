@@ -30,8 +30,6 @@ Outputs
     • fig_dr_day_detail.png       – zoom on one DR day
     • fig_mpc_replan_thursday.png – MPC planned heating at each solve (Thursday)
 
-References
-    Zanetti et al. (2025). *Energy & Buildings*, 345, 116097.
 """
 
 import time
