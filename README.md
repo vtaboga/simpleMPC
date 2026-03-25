@@ -57,8 +57,3 @@ Representative numbers from one run; small changes are normal across machines / 
 \*Hours with $|T_i - [T_{\min},T_{\max}]| > 0.1$ °C when occupied (weekdays 07:00–18:00, bands 20–23 °C).
 
 
----
-
-## Teaching use
-
-Code is for coursework and self-study. Cite Zanetti et al. (2025) if you reference building MPC / RC modelling in reports.
