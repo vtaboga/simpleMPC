@@ -1,0 +1,5 @@
+docs/
+.venv/
+mpc_example*
+fig_*.png
+__pycache__/
