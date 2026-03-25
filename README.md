@@ -56,7 +56,6 @@ Representative numbers from one run; small changes are normal across machines / 
 
 \*Hours with $|T_i - [T_{\min},T_{\max}]| > 0.1$ °C when occupied (weekdays 07:00–18:00, bands 20–23 °C).
 
-**Takeaway:** MPC still **shifts load toward cheap periods** (lower bill) with **similar total energy**, but without a tracking penalty it may **ride the lower comfort bound** more often; combined with **forecast mismatch** on gains, occupied-band violations can appear while the baseline PI stays tighter to setpoint.
 
 ---
 
